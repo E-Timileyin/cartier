@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/assets/images/home.png" alt="Hero Image" width="800" />
+  <img src="/app/assets/images/home.png" alt="Hero Image" width="800" />
 </p>
 
 # 🏠 Real Estate Developer UI Template — Next.js + Tailwind CSS
